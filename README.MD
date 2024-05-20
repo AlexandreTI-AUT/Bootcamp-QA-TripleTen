@@ -7,6 +7,7 @@
 - O que são testes de software?
 
 ##### Sprint 2
+- Alterando o Readme
 
 ##### Sprint 3
 
